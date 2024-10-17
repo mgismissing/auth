@@ -49,3 +49,17 @@ body {
 .login-container input[type="submit"]:hover {
     background-color: #0f62fe;
 }
+
+.ad {
+    margin: auto;
+    width: 320;
+    height: 50;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -40px;
+}
+
+.ad.nomargin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
